@@ -1,3 +1,4 @@
 Extenciones
 - Live server
-- 
+- Live server
+HTML CSS support
